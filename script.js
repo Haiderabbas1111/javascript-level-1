@@ -1,5 +1,5 @@
 //varExample
-var ab = 12;
+var ab = 124;
 console.log(ab);
 
 //letExample
